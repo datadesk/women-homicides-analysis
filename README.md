@@ -1,2 +1,3 @@
 # women-homicides-analysis
-A Times analysis if the rising number of women being killed in L.A.
+
+A Los Angeles Times analysis of the rising number of women being killed in L.A.
